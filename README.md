@@ -56,7 +56,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Business case: Quest Diagnostics- Performance Optimisation of the call centers .**
 
 ![image](2 anietie etuk data analytics sales project.jpg)
 
