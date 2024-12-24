@@ -87,7 +87,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Abuja FCT, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
