@@ -1,25 +1,26 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I am a Business Analyst with over 10 years of experience delivering data-driven insights and process improvements to align with business goals. Skilled in requirements gathering, data analysis, process mapping, and solution development, I have consistently driven operational efficiency and growth across diverse industries, including the creative and professional services sectors.
+Hello! I am a Business Data Analyst with over 10 years of experience delivering data-driven insights and process improvements to align with business goals. Skilled in requirements gathering, data analysis, process mapping, and solution development, I have consistently driven operational efficiency and growth across diverse industries, including the creative and professional services sectors.
 Proficient in analytical tools, I excel at collaborating with cross-functional teams, managing stakeholder expectations, and implementing strategic initiatives that deliver measurable results. With a strong commitment to lifelong learning, I combine technical expertise, strategic thinking, and a passion for fostering collaboration to achieve meaningful outcomes.
 
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
-## WHAT I DO
+## SKILLS
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+*As a Senior Analyst at BA Beyond Borders, I harness the Business Analysis Core Concept Model to provide transformative, value-driven solutions for businesses.*
 
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+**- ✅ Data Analysis and Visualzation.**
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+**- ✅ Exploratory Data Analysis.**
 
+**- ✅ Requirement Elicitation.**
+
+**- ✅ Change Management.**
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+## MY PROJECTS 
 
 *A glimpse of some of the projects I've been working on.*
 
