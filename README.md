@@ -11,7 +11,7 @@ Proficient in analytical tools, I excel at collaborating with cross-functional t
 
 *As a Senior Analyst at BA Beyond Borders, I harness the Business Analysis Core Concept Model to provide transformative, value-driven solutions for businesses.*
 
-**- ✅ Data Analysis and Visualzation.**
+**- ✅ Data Analysis and Visualization.**
 
 **- ✅ Requirement Elicitation.**
 
@@ -64,7 +64,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**How i helped Ilimtutors validate their market position while drafting product requiremnet documentation.**
 
 ![image](3 anietie etuk data analytics agro project.jpg)
 
